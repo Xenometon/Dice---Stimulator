@@ -1,5 +1,5 @@
 # Dice-Stimulator
-***Code to virtually roll a die in Python.***
+⇒ ***Code to virtually roll a die in Python.***
 
 *Range* = [1,6]    
 
